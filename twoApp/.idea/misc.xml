@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/abeer/AndroidStudioProjects/twoApp/app/src/main/res/drawable/circle_bt.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/abeer/AndroidStudioProjects/twoApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/abeer/AndroidStudioProjects/twoApp/app/src/main/res/layout/activity_num_guss.xml" value="0.1" />
+        <entry key="..\:/Users/abeer/AndroidStudioProjects/twoApp/app/src/main/res/layout/activity_ph_guss.xml" value="0.1279128672745694" />
+        <entry key="..\:/Users/abeer/AndroidStudioProjects/twoApp/app/src/main/res/layout/item_custom_num.xml" value="0.12208713272543059" />
+        <entry key="..\:/Users/abeer/AndroidStudioProjects/twoApp/app/src/main/res/layout/item_custom_row.xml" value="0.12208713272543059" />
+        <entry key="..\:/Users/abeer/AndroidStudioProjects/twoApp/app/src/main/res/menu/menu_game.xml" value="0.1" />
+        <entry key="..\:/Users/abeer/AndroidStudioProjects/twoApp/app/src/main/res/menu/menu_list.xml" value="0.15833333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
